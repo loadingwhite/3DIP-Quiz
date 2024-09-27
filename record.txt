@@ -1,0 +1,10 @@
+--------------
+Name: lune
+Age: 18
+Score: 21
+Percentage: 80.77%
+--------------
+Name: lune
+Age: 18
+Score: 23
+Percentage: 88.46%
